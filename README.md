@@ -3,6 +3,8 @@
 TravelStory is a Flutter application that allows users to book and find information about various travel destinations. This app is designed to help travelers plan their trips easily and efficiently.
 
 <img src="https://github.com/HaikalE/TravelStory/assets/89823572/a342b9c0-5733-498d-b6a1-1ddf9b79c486" alt="screenshot" width="360" height="640">
+<img src="https://github.com/HaikalE/TravelStory/assets/89823572/d35025a3-0fa6-4fcd-8b3f-ffc3444baa16" alt="screenshot" width="360" height="640">
+
 
 
 
