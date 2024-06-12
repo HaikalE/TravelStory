@@ -5,19 +5,20 @@ TravelStory is a Flutter application that allows users to book and find informat
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 25%; padding: 5px;">
-    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/a342b9c0-5733-498d-b6a1-1ddf9b79c486" alt="Landing Page" style="width: 100%;">
+  <div style="flex: 0 0 50%; max-width: 50%; padding: 5px;">
+    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/a342b9c0-5733-498d-b6a1-1ddf9b79c486" alt="Landing Page" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 25%; padding: 5px;">
-    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/d35025a3-0fa6-4fcd-8b3f-ffc3444baa16" alt="Explore Page" style="width: 100%;">
+  <div style="flex: 0 0 50%; max-width: 50%; padding: 5px;">
+    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/d35025a3-0fa6-4fcd-8b3f-ffc3444baa16" alt="Explore Page" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 25%; padding: 5px;">
-    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/b38f2ae5-286a-4278-8130-ffc183f8032a" alt="Profile Page" style="width: 100%;">
+  <div style="flex: 0 0 50%; max-width: 50%; padding: 5px;">
+    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/b38f2ae5-286a-4278-8130-ffc183f8032a" alt="Profile Page" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 25%; padding: 5px;">
-    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/80bac72b-1406-4d9a-8f61-6ae143646700" alt="Detail Page" style="width: 100%;">
+  <div style="flex: 0 0 50%; max-width: 50%; padding: 5px;">
+    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/80bac72b-1406-4d9a-8f61-6ae143646700" alt="Detail Page" style="width: 100%; height: auto;">
   </div>
 </div>
+
 
 ## Key Features
 
