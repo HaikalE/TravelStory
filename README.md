@@ -2,12 +2,22 @@
 
 TravelStory is a Flutter application that allows users to book and find information about various travel destinations. This app is designed to help travelers plan their trips easily and efficiently.
 
-<img src="https://github.com/HaikalE/TravelStory/assets/89823572/a342b9c0-5733-498d-b6a1-1ddf9b79c486" alt="screenshot" width="360" height="640">
-<img src="https://github.com/HaikalE/TravelStory/assets/89823572/d35025a3-0fa6-4fcd-8b3f-ffc3444baa16" alt="screenshot" width="360" height="640">
+## Screenshots
 
-
-
-
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 50%; padding: 5px;">
+    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/a342b9c0-5733-498d-b6a1-1ddf9b79c486" alt="Landing Page" style="width: 100%;">
+  </div>
+  <div style="flex: 50%; padding: 5px;">
+    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/d35025a3-0fa6-4fcd-8b3f-ffc3444baa16" alt="Explore Page" style="width: 100%;">
+  </div>
+  <div style="flex: 50%; padding: 5px;">
+    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/b38f2ae5-286a-4278-8130-ffc183f8032a" alt="Profile Page" style="width: 100%;">
+  </div>
+  <div style="flex: 50%; padding: 5px;">
+    <img src="https://github.com/HaikalE/TravelStory/assets/89823572/80bac72b-1406-4d9a-8f61-6ae143646700" alt="Detail Page" style="width: 100%;">
+  </div>
+</div>
 
 ## Key Features
 
@@ -71,20 +81,3 @@ We welcome contributions from anyone interested in improving TravelStory. Please
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-=======
-# travel_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
